@@ -1,1 +1,0 @@
-{"parameters": [], "data": [{"externalId": "READING_END_DELIVERY", "orders": [{"orderStartDate": {"year": 2022, "month": 1, "day": 1}, "orderEndDate": {"year": 2022, "month": 1, "day": 15}, "orderToDate": {"year": 2022, "month": 1, "day": 1}, "orderType": "Reading", "subOrderType": "End delivery"}]}]}

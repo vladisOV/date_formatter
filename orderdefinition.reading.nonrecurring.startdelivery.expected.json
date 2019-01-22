@@ -1,1 +1,0 @@
-{"parameters": [], "data": [{"orderDefinitionExternalId": "READING_START_DELIVERY", "orders": [{"orderStartDate": "2019-01-01", "orderEndDate": "2019-01-15", "orderFromDate": "2019-01-01", "orderType": "Reading", "subOrderType": "Start delivery"}]}]}
